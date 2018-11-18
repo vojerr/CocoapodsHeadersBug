@@ -1,0 +1,20 @@
+{
+  "name": "dependency",
+  "version": "1.0",
+  "summary": "dependency cocoapods bug",
+  "description": "dependency cocoapods bug project",
+  "homepage": "http://todo.com",
+  "license": "MIT",
+  "authors": {
+    "todo": "todo@todo.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://todo/whento-core.git",
+    "tag": "1.0"
+  },
+  "source_files": "dependency/**/*.{h,m}",
+  "public_header_files": "dependency/**/*.h"
+}
